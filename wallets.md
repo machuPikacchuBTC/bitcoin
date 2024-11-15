@@ -32,8 +32,9 @@ The links below are based on my experience and discussions I've seen. They are n
 with any of them nor do I have a financial incentive to promote them. The list is not exhaustive and will change over time.
 
 ## Software
-- [Electrum](https://electrum.org/)
-- [Sparrow](https://sparrowwallet.com/)
+- [Electrum](https://electrum.org/) - [Code](https://github.com/spesmilo/electrum)
+- [Sparrow](https://sparrowwallet.com/) - [Code](https://github.com/sparrowwallet/sparrow)
+- [Bitcoin-safe](https://bitcoin-safe.org/) - [Code](https://github.com/andreasgriffin/bitcoin-safe)
 
 # Hardware
 - [Coldcard Q](https://coldcard.com/q) - [Usage instructions](https://coldcard.com/docs/beginner/)
