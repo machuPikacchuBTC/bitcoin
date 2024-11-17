@@ -6,12 +6,13 @@ If you are curious to learn more or you think it's a scam then hopefully you fin
 Disclaimer: these notes should not be construed as financial advice.
 
 # Table of contents
+1. [Concepts](concepts.md)
 1. Media
    - [Reading]((further-reading.md))
    - [Podcasts](podcasts.md)
-2. [Interesting thoughts](thoughts.md)
-3. [Dispelling FUD](fud.md)
-4. [Bitcoin Wallets](wallets.md)
+1. [Interesting thoughts](thoughts.md)
+1. [Dispelling FUD](fud.md)
+1. [Bitcoin Wallets](wallets.md)
 
 # Motivating questions
 - What is money? Why do we use money? What are necessary properties of money?
