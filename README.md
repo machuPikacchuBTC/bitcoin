@@ -1,7 +1,7 @@
 # Bitcoin
 
 This repo contains a collection of notes with the intention to inform newcomers to bitcoin.
-If you are curious to learn more or you think it's a scam then hopefully you find value here.
+If you're curious to learn more or even if you think it's a scam then hopefully you find value here.
 
 Disclaimer: these notes should not be construed as financial advice.
 
