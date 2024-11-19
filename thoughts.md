@@ -60,16 +60,6 @@ figured out how to take down or corrupt bitcoin yet.
 
 If you want to secure something important online then finding a way to leverage the data on the bitcoin blockchain is your best bet.
 
-## Spam filter
-
-Hate spam? One of the principles of bitcoin, [proof of work](https://en.wikipedia.org/wiki/Proof_of_work) was invented to tackle spam.
-Since there's finitely many bitcoin, if you require people to pay in bitcoin (which is programmable money) then you can rest assured
-the spammers can't go on indefinitely. Even if they try, you'll get paid handsomely for it.
-
-It's an economic spam filter as well. In order to acquire bitcoin you have to either mine it (which costs a lot of energy) or you have
-to trade something else of value for it. There are no shortcuts. If you spend your bitcoin then you should be sure you're getting value
-out of the purchase.
-
 ## AI
 
 Scared of AI taking your job? Well, if you have a currency that appreciates over time then AI is working _for you_ rather than _against you_.
