@@ -27,6 +27,24 @@ happened at a certain time in the past you can't actually _prove_ any facts even
 (especially now that AI is getting better). Due to bitcoin's nature you can trust that anything cryptographically tied to its
 blockchain in fact happened and when (relative to other similar events).
 
+## Economic Spam Filter
+
+[Proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) (PoW) was originally invented to prevent "denial of service"
+attacks and spam. Satoshi used this idea as a cornerstone of Bitcoin's architecture. What are the consequences of PoW
+when added to money?
+
+In order to mine bitcoin you have to prove you expended some amount of energy that the network decides is sufficient.
+That energy must be in a useful form (how else could you use it to mine?) and is therefore valuable in any economy.
+The miners are trading "value for value." As the value of each bitcoin grows the people who already have it will not part
+with it unless it's for something of equal value.
+
+Should you trade an appreciating currency for non-durable goods like disposable cups and unreliable, high maintenance cars?
+You can, but then you'll have to do it again soon. And again. And again. Over time you'll lose more bitcoin than if you just
+purchased quality goods in the first place. Those who understand this will be rewarded over time on average.
+
+In order for producers to entice consumers to part with their bitcoin they'll need to demonstrate why their product or service
+is actually valuable. We've created an incentive to produce quality goods again!
+
 ## Space Race?
 
 Bitcoin uses a lot of energy. Whoever has more energy can earn more bitcoin even if they have inefficient mining
