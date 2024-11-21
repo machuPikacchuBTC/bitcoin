@@ -13,6 +13,7 @@ Disclaimer: these notes should not be construed as financial advice.
 1. [Interesting thoughts](thoughts.md)
 1. [Dispelling FUD](fud.md)
 1. [Bitcoin Wallets](wallets.md)
+1. [Where to spend](spending.md)
 
 # Motivating questions
 - What is money? Why do we use money? What are necessary properties of money?
