@@ -13,6 +13,7 @@ Disclaimer: these notes should not be construed as financial advice.
 1. [Interesting thoughts](thoughts.md)
 1. [Dispelling FUD](fud.md)
 1. [Bitcoin Wallets](wallets.md)
+1. [Use for payments](payments.md)
 1. [Where to spend](spending.md)
 
 # Motivating questions
