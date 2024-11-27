@@ -39,6 +39,7 @@ enjoy all the same services you're used to, but with the purchasing power of bit
 
 ## Products
 - [Coinkite (hardware wallets, apparel, etc.)](https://store.coinkite.com/store)
+- [The Lightning Store](https://lightning.store/)
 
 ## Services
 - https://athenut.com/ (AI chat)
