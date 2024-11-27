@@ -6,15 +6,15 @@ even if you think it's a scam then hopefully you find value here.
 Disclaimer: these notes should not be construed as financial advice.
 
 # Table of contents
-1. [Concepts](concepts.md)
+1. [Concepts](notes/concepts.md)
 1. Media
-   - [Reading]((further-reading.md))
-   - [Podcasts](podcasts.md)
-1. [Interesting thoughts](thoughts.md)
-1. [Dispelling FUD](fud.md)
-1. [Bitcoin Wallets](wallets.md)
-1. [Use for payments](payments.md)
-1. [Where to spend](spending.md)
+   - [Reading](notes/further-reading.md)
+   - [Podcasts](notes/podcasts.md)
+1. [Interesting thoughts](notes/thoughts.md)
+1. [Dispelling FUD](notes/fud.md)
+1. [Bitcoin Wallets](notes/wallets.md)
+1. [Use for payments](notes/payments.md)
+1. [Where to spend](notes/spending.md)
 
 # Motivating questions
 - What is money? Why do we use money? What are necessary properties of money?
