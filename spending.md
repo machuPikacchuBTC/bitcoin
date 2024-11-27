@@ -40,5 +40,9 @@ enjoy all the same services you're used to, but with the purchasing power of bit
 ## Products
 - [Coinkite (hardware wallets, apparel, etc.)](https://store.coinkite.com/store)
 
+## Services
+- https://athenut.com/ (AI chat)
+- https://unleashed.chat/ (AI chat)
+
 ## Misc
 - [BitPay directory](https://bitpay.com/directory/)
