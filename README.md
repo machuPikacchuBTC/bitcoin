@@ -1,7 +1,7 @@
 # Bitcoin
 
-This repo contains a collection of notes with the intention to inform newcomers to bitcoin.
-If you're curious to learn more or even if you think it's a scam then hopefully you find value here.
+This repo contains a collection of notes for newcomers to bitcoin. If you're curious to learn more or
+even if you think it's a scam then hopefully you find value here.
 
 Disclaimer: these notes should not be construed as financial advice.
 
@@ -45,4 +45,5 @@ Until Bitcoin.
 
 Here's the full 9 pages of the whitepaper: https://bitcoin.org/bitcoin.pdf
 
-It's a technical document that most people won't be interested to read, but I highly recommend trying to do so.
+It's a technical document, but I highly recommend trying to read it. Most LLMs these days are plenty capable at
+explaining the core concepts in there.
