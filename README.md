@@ -10,6 +10,7 @@ Disclaimer: these notes should not be construed as financial advice.
 1. Media
    - [Reading](notes/further-reading.md)
    - [Podcasts](notes/podcasts.md)
+   - [Videos](notes/videos.md)
 1. [Interesting thoughts](notes/thoughts.md)
 1. [Dispelling FUD](notes/fud.md)
 1. [Bitcoin Wallets](notes/wallets.md)
