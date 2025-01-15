@@ -45,6 +45,9 @@ See [https://en.bitcoin.it/wiki/Seed_phrase](https://en.bitcoin.it/wiki/Seed_phr
 
 # Transactions
 
+Unchained Capital provides a great overview of how bitcoin transactions work here:
+https://unchained.com/blog/how-bitcoin-transactions-work/
+
 See [https://en.bitcoin.it/wiki/Transaction](https://en.bitcoin.it/wiki/Transaction) for more.
 
 # Mining
