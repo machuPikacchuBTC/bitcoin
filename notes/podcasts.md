@@ -20,6 +20,7 @@ work for you!
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 - [THE Bitcoin Podcast](https://www.youtube.com/@WalkerAmerica/featured)
 - [TFTC](https://www.tftc.io/tag/podcasts/)
+- [Bitcoin Infinity](https://www.bitcoininfinityshow.com/)
 
 ### News
 - [Coin Stories](https://talkingbitcoin.com/podcast)
