@@ -26,4 +26,5 @@ work for you!
 - [Coin Stories](https://talkingbitcoin.com/podcast)
 
 ### Single episodes
-- [Michael Saylor on Lex Fridman](https://www.youtube.com/watch?v=mC43pZkpTec)
+- [Aaron von Wirdum - The Genesis of Bitcoin](https://www.youtube.com/watch?v=TXs3maguye4)
+- [Calle - The Future of Digital Cash, Financial Privacy & Mining Innovation](https://www.youtube.com/watch?v=uKrULTMfrrw)
